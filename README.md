@@ -21,6 +21,7 @@ Building practical technology solutions across IT operations, networking, cyber 
 * ☁️ Interested in Microsoft Azure, Google Cloud, AI-driven solutions, and enterprise technologies
 
 * 📍 Adelaide, South Australia
+---
 
 ⚡ Technical Skills
 IT & Systems
