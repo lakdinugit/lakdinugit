@@ -22,6 +22,9 @@ Building practical technology solutions across IT operations, networking, cyber 
 
 * 📍 Adelaide, South Australia
 ---
+
+## ⚡ Technical Skills
+
 ### IT & Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -53,7 +56,7 @@ Building practical technology solutions across IT operations, networking, cyber 
 ![Access Control](https://img.shields.io/badge/Access_Control-4C566A?style=for-the-badge)
 ![Incident Handling](https://img.shields.io/badge/Incident_Handling-BF616A?style=for-the-badge)
 
-## ⚡ Technical Skills
+---
 
 IT & Systems
 Windows Administration
