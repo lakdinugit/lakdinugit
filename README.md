@@ -10,17 +10,17 @@ Building practical technology solutions across IT operations, networking, cyber 
 
 ## 🚀 About Me
 
-🎓 Master of Information Technology (Cyber Security) – University of South Australia
+* 🎓 Master of Information Technology (Cyber Security) – University of South Australia
 
-💻 IT & Operations Support Officer with experience in enterprise IT systems, technical support, databases, and business operations
+* 💻 IT & Operations Support Officer with experience in enterprise IT systems, technical support, databases, and business operations
 
-🌐 Experience in website development, front-end and back-end technologies, and database management
+* 🌐 Experience in website development, front-end and back-end technologies, and database management
 
-🔐 Passionate about cyber security, network infrastructure, cloud technologies, and system administration
+* 🔐 Passionate about cyber security, network infrastructure, cloud technologies, and system administration
 
-☁️ Interested in Microsoft Azure, Google Cloud, AI-driven solutions, and enterprise technologies
+* ☁️ Interested in Microsoft Azure, Google Cloud, AI-driven solutions, and enterprise technologies
 
-📍 Adelaide, South Australia
+* 📍 Adelaide, South Australia
 
 ⚡ Technical Skills
 IT & Systems
