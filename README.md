@@ -22,8 +22,9 @@ Building practical technology solutions across IT operations, networking, cyber 
 
 * 📍 Adelaide, South Australia
 ---
+...
+## ⚡ Technical Skills
 
-⚡ Technical Skills
 IT & Systems
 Windows Administration
 Linux Fundamentals
@@ -60,7 +61,10 @@ Access Control
 Incident Handling
 Security Compliance
 Risk Management
-🚧 Featured Projects
+
+---
+
+## 🚧 Current Projects
 
 🔒 Secure Software-Defined Satellite Network (Capstone Project)
 
