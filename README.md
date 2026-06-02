@@ -10,7 +10,7 @@ Building practical technology solutions across IT operations, networking, cyber 
 
 ## 🚀 About Me
 
-* 🎓 Master of Information Technology (Cyber Security) – University of South Australia
+* 🎓 Master of Information Technology (Cyber Security) – Adelaide University
 
 * 💻 IT & Operations Support Officer with experience in enterprise IT systems, technical support, databases, and business operations
 
@@ -58,67 +58,35 @@ Building practical technology solutions across IT operations, networking, cyber 
 
 ---
 
-IT & Systems
-Windows Administration
-Linux Fundamentals
-Microsoft 365
-IT Service Desk & User Support
-L1/L2 Technical Support
-User Account Provisioning
-Networking
-TCP/IP
-DNS & DHCP
-VLANs
-Switching & Routing
-Network Troubleshooting
-VoIP Technologies
-Development
-PHP
-JavaScript
-HTML & CSS
-SQL
-Python
-Front-End & Back-End Development
-Databases
-MySQL
-SQL
-Database Administration
-Data Validation & Reporting
-Cloud & Platforms
-Microsoft Azure
-Google Cloud Platform
-Git
-Cyber Security
-Security Fundamentals
-Access Control
-Incident Handling
-Security Compliance
-Risk Management
+## 🚧 Current Projects
+
+* 🔒 Secure Software-Defined Satellite Network (Capstone Project)
+
+* 🛰 Security Solutions Leveraging Programmable Control & Data Planes
+
+* 🛒 IoT-Based Smart Shopping System (IEEE Publication)
+
+* 📡 DF Cooperative-NOMA Scheme for Ubiquitous Coverage.
 
 ---
 
-## 🚧 Current Projects
+## 🧠 Areas of Interest
+* Cyber Security
+* Network Engineering
+* Cloud Computing
+* System Administration
+* Artificial Intelligence
+* IT Operations
+* Enterprise Technologies
 
-🔒 Secure Software-Defined Satellite Network (Capstone Project)
+---
 
-🛰 Security Solutions Leveraging Programmable Control & Data Planes
-
-🛒 IoT-Based Smart Shopping System (IEEE Publication)
-
-📡 DF Cooperative-NOMA Scheme for Ubiquitous Coverage (WINTEX Gold Medal – Indonesia)
-
-🧠 Areas of Interest
-Cyber Security
-Network Engineering
-Cloud Computing
-System Administration
-Artificial Intelligence
-IT Operations
-Enterprise Technologies
-📫 Connect With Me
+## 📫 Connect With Me
 
 💼 LinkedIn: www.linkedin.com/in/lakdinu-ekanayaka
 
 📧 Email: lakdinu.ekanayaka@gmail.com
+
+---
 
 ⭐ Always interested in learning, collaborating, and building impactful technology solutions.
