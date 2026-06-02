@@ -1,11 +1,13 @@
 <div align="center">
   
 # Hi 👋 I'm Lakdinu Ekanayaka
--
+--
 IT Professional • Cyber Security Graduate • Network & Systems Enthusiast
 Building practical technology solutions across IT operations, networking, cyber security, web development, and cloud platforms.
-</div>
+
 ---
+</div>
+
 🚀 About Me
 
 🎓 Master of Information Technology (Cyber Security) – University of South Australia
