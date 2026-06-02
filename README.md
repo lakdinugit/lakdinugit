@@ -8,7 +8,7 @@ Building practical technology solutions across IT operations, networking, cyber 
 ---
 </div>
 
-🚀 About Me
+# 🚀 About Me
 
 🎓 Master of Information Technology (Cyber Security) – University of South Australia
 
